@@ -53,7 +53,13 @@
   
 </div>
 
+<br></br>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B46C1,100:4299E1&height=120&section=footer&text=&fontSize=0" alt="Gradient wave divider" />
+</div>
+
+<br></br>
 
 ## 🌐 Connect & Collaborate
 
