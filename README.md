@@ -8,6 +8,34 @@
 </div>
 
 <div align="center">
+  <img src="assets/junkyard-arcade-logo.png" alt="Junkyard Arcade logo" width="150" />
+</div>
+
+## 🕹️ Junkyard Arcade - Onchain Blind Box Protocol
+
+Junkyard Arcade is a full-stack onchain blind box project built around verifiable randomness, multi-asset prize pools, and a creator-facing operations console.
+
+### Key Features
+- **Blind Box Protocol**: Deploy a blind box series with fixed sale parameters and manage reward assets.
+- **Verifiable Randomness**: Uses Chainlink VRF for transparent and fair prize distribution.
+- **Multi-Asset Prize Pools**: Supports funding pools with ERC20, ERC721, and ERC1155 assets.
+- **Creator Dashboard**: Dedicated console for creators to manage sales, whitelists, and leftover handling.
+
+<div align="center">
+  
+  [![Junkyard Arcade GitHub](https://img.shields.io/badge/GitHub-junkyard--arcade-181717?style=for-the-badge&logo=github)](https://github.com/web3heichenya/junkyard-arcade)
+  
+</div>
+
+<br></br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B46C1,100:4299E1&height=120&section=footer&text=&fontSize=0" alt="Gradient wave divider" />
+</div>
+
+<br></br>
+
+<div align="center">
   <img src="assets/lolpro-logo.png" alt="LOLPro logo" width="150" />
 </div>
 
